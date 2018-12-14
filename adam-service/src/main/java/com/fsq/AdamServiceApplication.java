@@ -4,9 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdamApplication {
+public class AdamServiceApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(AdamApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(AdamServiceApplication.class, args);
+	}
+
 }
+
