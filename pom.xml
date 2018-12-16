@@ -72,12 +72,6 @@
             <artifactId>thymeleaf-extras-springsecurity5</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>io.github.tigerbrokers</groupId>
-            <artifactId>openapi-java-sdk</artifactId>
-            <version>1.0.2</version>
-        </dependency>
-
     </dependencies>
 
     <build>
